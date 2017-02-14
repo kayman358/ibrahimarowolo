@@ -1,0 +1,47 @@
+.nav-pills{
+  font-family:Lobster;
+  font-size: 1.7em;
+  margin-bottom:10%;
+  background-color:black;
+}
+body{
+  background-color:white;
+  font-family:Lobster;
+  color:white;
+}
+.pageOne{
+  background:url("http://www.planweb.co.uk/wp-content/uploads/2013/08/Website-Background-Images-1024x640.jpg");
+  height:800px;
+}
+.pageTwo{
+  background:url("http://gomechanicalkeyboard.com/wp-content/uploads/2015/09/coding-924920_960_720.jpg");
+  background-size:cover;
+  height: 550px;
+  color:#00000;
+}
+.list-unstyled.love li, 
+.list-unstyled.no-love li {
+  background: no-repeat;
+  padding:0 0 5% 45px;
+}
+.img{width:180px; height:180px;}
+.block{
+  background-color:black;
+  opacity:.7;
+  padding:10px;
+  margin-top:auto;
+  width:40%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+}
+h1{  padding:0;
+  font-size:4.0em;
+}
+.mono{font-family:monospace;}
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  size:1.7em;
+}
